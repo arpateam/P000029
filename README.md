@@ -9,3 +9,5 @@
 	- Gunakan gambar sebagai bahan acuan analisis (Jika ada)
 	- Jangan terlalu cepat dalam menyelesaikan Project, pelan-pelan saja yang penting hasilnya sesuai dengan detail Project
 
+2. SUDAH MELAKSANAKAN KEGIATAN MEMAHAMI JOBDESC SYSTEM ANALYST
+- Pada waktu ini saya di perintahkan untuk memahami tentang Jobdesc System Analyst dan mendiskusikan dengan pihak #ARPATEAM terkait jobdesc ini
